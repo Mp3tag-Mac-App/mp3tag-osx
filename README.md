@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://software-osx.github.io/.github/mp3tagmac">  
+<a href="https://get-software-osx.github.io/.github/mp3tagmac">  
 <img src="https://img.shields.io/badge/Get_Mp3tag_for_macOS-007AFF?style=for-the-badge&logo=apple" alt="Get Mp3tag">  
 </a>  
 </div>  
